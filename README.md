@@ -57,7 +57,7 @@ Current difference: [582 HSK2012 words which are missing human audios](http://js
 * v.0.1.0: clean up data by deleting the cmn-*5.ext items since copies of cmn-*1.mp3
 * v.0.1.1: add ./18k-abr (<40MB), an optimized version of ./64kb with understable sound quality
 * v.0.1.2: improve README.md ; Add ./lists/ and script for comparison with the HSK2012.
-* v.0.2.0: 2018's fix for critical bug on some audios ; Add 24k and 96k ; share the conversion commands via compress-raw.bash
+* v.2.0.0: [BREAKING CHANGE] Merge back former /hskzi/ and /hsk/ back together. [Others]: fix for critical bug on some audios ; Add 24k and 96k ; share the conversion commands via compress-raw.bash
 
 ### License
 * CC-by-sa. See table upper for authors.
