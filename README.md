@@ -8,7 +8,7 @@ These audios are thus suitable for mobile application developments.
 ### Voices
 | # of items | Naming          | Set's specifics | Authorship |
 | :--------- |:---------------:|:----------------|:-----------|
-| 1707       | `cmn-zi4.mp3`   | syllabs v0.2    | Chen Wang, CC-by-sa |
+| 1707       | `cmn-zi4.mp3`   | syllabs v.2    | Chen Wang, CC-by-sa |
 | +8000      | `cmn-名字.mp3`   | HSK_2000 list (words,zi)  | Yue Tan, [CC-by-sa](http://packs.shtooka.net/cmn-caen-tan/readme.txt) |
 
 ### Structure
