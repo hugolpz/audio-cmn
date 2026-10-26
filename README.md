@@ -9,7 +9,7 @@ These audios are thus suitable for mobile application developments.
 | # of items | Naming          | Set's specifics | Authorship |
 | :--------- |:---------------:|:----------------|:-----------|
 | 1707       | `cmn-zi4.mp3`   | syllabs v.2    | Chen Wang, CC-by-sa |
-| +8000      | `cmn-名字.mp3`   | HSK_2000 list (words,zi)  | Yue Tan, [CC-by-sa](http://packs.shtooka.net/cmn-caen-tan/readme.txt) |
+| +8000      | `cmn-名字.mp3`   | HSK_2000 list (words,zi)  | Yue Tan, [CC-by-sa](http://packs.shtooka.net/cmn-caen-tan/readme.txt) [arch](https://web.archive.org/web/20250101000000*/https://packs.shtooka.net/cmn-caen-tan/readme.txt) |
 
 ### Structure
 Type of data :
